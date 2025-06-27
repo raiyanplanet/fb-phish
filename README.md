@@ -56,7 +56,7 @@ facebook-login-clone/
 
    ```bash
    git clone https://github.com/raiyanplanet/fb-phish.git
-   cd facebook-login-clone
+   cd fb-phish
    ```
 
 2. **Create the folder structure**
